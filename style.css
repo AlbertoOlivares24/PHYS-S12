@@ -1,11 +1,15 @@
 body {
+    
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
     color: black;
     padding-top: 0px !important;
   }
 
-p {font-size: 16px;}
+p {
+  font-size: 16px;
+  color:aliceblue
+}
 .margin {margin-bottom: 15px;}
 
 .container-fluid {
