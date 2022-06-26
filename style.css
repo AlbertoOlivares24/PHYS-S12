@@ -1,23 +1,16 @@
-h1 {
-  font-size: 16px;
-  color:aliceblue
+*{
+  margin: 0;
+  padding: 0;
 }
+.container{
+      height: 100vh;
+      width: 100%;
+      background-image: url(star_background.jpg);
+      background-position: center;
+      background-size: cover;
+      padding-left: 5%;
+      padding-right: 5%;
+      box-sizing: border-box;
+      position: relative;
 
-body {
-    
-    font: 20px Montserrat, sans-serif;
-    line-height: 1.8;
-    color: black;
-    padding-top: 0px !important;
-  }
-
-p {
-  font-size: 16px;
-  color:aliceblue
-}
-.margin {margin-bottom: 15px;}
-
-.container-fluid {
-  padding: 0px;
-  /*padding-bottom: 70px;*/
 }
